@@ -1,4 +1,4 @@
-setTimeout(init, 0);
+init();
 
 function init() {
   var calcStr = "0";
