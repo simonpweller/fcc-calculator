@@ -1,6 +1,4 @@
-init();
-
-function init() {
+export default function init() {
   var calcStr = "0";
   var curr = "0";
 
